@@ -1,4 +1,4 @@
-# Design Thinking - Treina Web
+# Design Thinking
 
 Meu resumo do curso de Design Thinking na Treina Web.
 
