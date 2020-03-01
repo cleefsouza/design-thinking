@@ -4,9 +4,17 @@ Meu resumo do curso de Design Thinking na Treina Web.
 
 ## Sumário
 
-- [Inovação](#inovação) - [Tipos de Inovação](#tipos-de-inovação) - [Impacto da Inovação](#impacto-da-inovação) - [Desafios da Inovação](#desafios-da-inovação) - [Como Inovar?](#como-inovar)
-- [Design Thinking](#design-thinking) - [Etapas do Design Thinking](#etapas-do-design-thinking) - [Imersão](#imersão) - [Análise e Síntese](#análise-e-síntese) - [Ideação](#ideação) - [Prototipação](#prototipação)
--
+- [Inovação](#inovação)
+	- [Tipos de Inovação](#tipos-de-inovação)
+	- [Impacto da Inovação](#impacto-da-inovação)
+	- [Desafios da Inovação](#desafios-da-inovação)
+	- [Como Inovar?](#como-inovar)
+- [Design Thinking](#design-thinking)
+	- [Etapas do Design Thinking](#etapas-do-design-thinking)
+		- [Imersão](#imersão)
+		- [Análise e Síntese](#análise-e-síntese)
+		- [Ideação](#ideação)
+		- [Prototipação](#prototipação)
 
 ## Inovação
 
@@ -48,17 +56,21 @@ Design Thinking é uma abordagem focada no ser humano que vê na multidisciplina
 
 Tem por objetivo a aproximação do contexto do projeto tanto do ponto de vista da empresa quanto do usuário final, e é subdividida em duas etapas:
 
-- **Preliminar:** visa o entendimento inicial do problema. Ela deve definir o escopo do projeto e suas fronteiras, além de identificar os perfis de usuários e outros atores-chave que deverão ser abordados. - **Reenquadramento:** reuniões de alinhamento estratégico entre a equipe; - **Captura:** coleta de dados; - **Transformação:** mapeia os dados coletados e adiciona novas perspectivas; - **Preparação:** cria materiais de sensibilização de impacto, que estimule o interlocutor a refletir.
+- **Preliminar:** visa o entendimento inicial do problema. Ela deve definir o escopo do projeto e suas fronteiras, além de identificar os perfis de usuários e outros atores-chave que deverão ser abordados.
+	- **Reenquadramento:** reuniões de alinhamento estratégico entre a equipe;
+		- **Captura:** coleta de dados;
+		- **Transformação:** mapeia os dados coletados e adiciona novas perspectivas;
+		- **Preparação:** cria materiais de sensibilização de impacto, que estimule o interlocutor a refletir.
 
-      	- **Pesquisa exploratória:** auxilia no entendimento do contexto do assunto trabalhado;
-      	- **Pesquisa desk:** fornece referências das tendências da área estudada no Brasil e exterior.
-      		- **Primaria:** os dados são coletados diretamente da fonte de informação;
-      		- **Secundaria:** é realizada com fontes de informações que já foram previamente publicadas por terceiros.
+	- **Pesquisa exploratória:** auxilia no entendimento do contexto do assunto trabalhado;
+	- **Pesquisa desk:** fornece referências das tendências da área estudada no Brasil e exterior.
+		- **Primaria:** os dados são coletados diretamente da fonte de informação;
+		- **Secundaria:** é realizada com fontes de informações que já foram previamente publicadas por terceiros.
 
 - **Profundidade:** destina-se à identificação das necessidades dos atores envolvidos no projeto e oportunidades.
   <br/>
 
-![alt text](https://github.com/cleefsouza/design-thinking/blob/master/imersao_profundidade.jpg)
+![alt text](imersao_profundidade.jpg)
 
 #### Análise e Síntese
 
