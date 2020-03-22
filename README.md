@@ -106,6 +106,38 @@ Organizar os dados de forma visual para encontrar padrões que auxiliem a compre
 
 Criar ideias inovadoras através de atividades colaborativas que estimulem a criatividade. As ideias criadas são selecionadas em função dos objetivos do negócio, da viabilidade tecnológica e necessidades humanas.
 
+#### Brainstorming
+
+Técnica para estimular a geração de uma grande número de ideias em um curto espaço de tempo. Geralmente realizado em grupo e possibilita uma abordagem rica para gerar ideias em cima de questões relevantes que nasceram durante a fase de imersão e de análise.
+
+#### Workshop de Cocriação
+
+Encontro organizado na forma de uma série de atividades em grupo com o objetivo de estimular a criatividade e a colaboração, fomentando a criação de soluções inovadoras. Geralmente são convidadas a spessoas que podem ter envolvimento direto ou indireto com as soluções que estão sendo desenvolvidas, ou seja, o usuário final, os funcionários da empresa e a equipe.
+
+#### Cardápio de Ideias
+
+Catálogo apresentando a síntese de todas as ideias geradas no projeto.
+
+#### Matriz de Posicionamento
+
+Ferramenta de análise estratégica das ideias geradas, utilizada na validação destas em relação aos critérios norteadores, bem como às necessidades das personas criadas no projeto.
+
+<br/>
+
+![alt text](img/matriz_de_posicionamento.png)
+
 #### Prototipação
 
-Faz a tangibilização das ideias, para possibilitar o aprendizado contínuo e validação da solução,
+Faz a tangibilização das ideias, para possibilitar o aprendizado contínuo e validação da solução, apesar de ser apresentada como uma das últimas fases do processo de Design Thinking, pode ocorrer ao longo do projeto em paralelo com a imersão e a ideação. O desenvolvimento de protótipos permite:
+ - Selecionar e refinar de forma assertiva as ideias;
+ - Tangibilizar e avaliar interativamente ideias;
+ - Validar as soluções junto a uma amostra do público;
+ - Antecipar eventuais gargalos e problemas, reduzindo riscos e otimizando gastos.
+
+#### Storyboard
+
+Uma representação visual de uma história através de quadros estáticos, compostos por desenhos, colagens, fotografias ou qualquer outra técnica disponível.
+
+<br/>
+
+![alt text](img/storyboard.jpeg)
